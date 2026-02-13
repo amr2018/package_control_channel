@@ -2039,6 +2039,18 @@
 					"tags": true
 				}
 			]
-		}
+		},
+		{
+	        "name": "FreePythonCode-Autocomplete",
+	        "details": "https://github.com/amr2018/freepythoncode-autocomplete",
+	        "labels": ["python", "autocomplete", "jedi"],
+	        "releases": [
+	            {
+	                "sublime_text": ">=4000",
+	                "details": "https://github.com/amr2018/freepythoncode-autocomplete"
+	            }
+	        ]
+	    }
+		
 	]
 }
